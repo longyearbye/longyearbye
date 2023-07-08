@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I've been expanding my knowledge about Automation Testing lately.<br>I write tests in Cypress, I code in JavaScript.<br>Here you can find my projects.  <br>Enjoy!</p>
+<p align="left">I've been expanding my knowledge about Automation Testing lately.<br>I write tests in Cypress, I code in JavaScript.<br>Here you can find my projects.  <br>Email me on thelongbourn@gmail.com</p>
 
 ###
 
