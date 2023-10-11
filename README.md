@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I've been expanding my knowledge about Automation Testing lately.<br>I write tests in Cypress and Playwright, I code in JavaScript.<br>
+<p align="left">I've been expanding my knowledge about Automation Testing lately.<br>I write tests in Cypress, WebdriverIO and Playwright, I code in JavaScript.<br>
   <a href="mailto:thelongbourn@gmail.com">Email me</a></p>
 
 ###
