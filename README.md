@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marta and I create and test apps and websites</h2>
+<h2 align="left">Hi 👋! My name is Marta and I test apps and websites</h2>
 
 ###
 
